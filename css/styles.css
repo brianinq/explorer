@@ -1,0 +1,14 @@
+.logout{
+    color: red;
+    padding:0.5rem 0;!important;
+}
+img{
+    object-fit: cover;
+    object-position: center;
+}
+form .d-inline-flex{
+    display: inline-flex; !important;
+}
+img.img-fluid{
+    max-height: 450px;
+}
